@@ -8,3 +8,4 @@ We can see those datas on map.
 But first we need to know wireless router range and distance;
 
 ![ek2](https://user-images.githubusercontent.com/78299757/208182020-5daad478-e84d-4d1b-bcf5-37818d2a2c62.png)
+https://www.geckoandfly.com/10041/wireless-wifi-802-11-abgn-router-range-and-distance-comparison/
