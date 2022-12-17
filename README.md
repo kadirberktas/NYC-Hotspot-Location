@@ -13,10 +13,11 @@ https://www.geckoandfly.com/10041/wireless-wifi-802-11-abgn-router-range-and-dis
 We can understand the wireless going up to 200 meters. We will base 200 meters. We can understand if is it enough or not to wifi devices in nyc.
 
 If we find the closest wifi devices with python;
-
+#
 import pandas as pd
 data=pd.read_csv("NYC_Wi-Fi_Hotspot_Locations (1).csv")
 data.sort_values("Latitude")
+#
 //We can get sample according to minimum latitude of 5 wifi devices //
 ![ek5](https://user-images.githubusercontent.com/78299757/208243325-25995dc8-c1d2-45c0-8b89-edbc68651050.png)
 
