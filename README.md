@@ -15,7 +15,9 @@ We can understand the wireless going up to 200 meters. We will base 200 meters. 
 If we find the closest wifi devices with python;
 #
 import pandas as pd
+
 data=pd.read_csv("NYC_Wi-Fi_Hotspot_Locations (1).csv")
+
 data.sort_values("Latitude")
 #
 //We can get sample according to minimum latitude of 5 wifi devices //
