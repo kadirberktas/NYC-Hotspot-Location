@@ -25,5 +25,5 @@ data.sort_values("Latitude")
 
 Those five point far away like 8 miles, so it should have been 40 wifi devices but that part has just 5 wifi devices.(We were base 200 meters for wifi distance for each wifi device.
 
-We can say, it active for %12.5 part of NYC. So I think they need to improve that. Because NYC is touristic place and they are gettin many tourist every month. Many tourist dont have american sim-card because generally they are coming from different countries. That's way they need connect any wifi devices in district. 
+We can say, it active for %12.5 part of NYC. So I think they need to improve that. Because NYC is touristic place and they are gettin many tourist every month. Many tourist dont have american sim-card because generally they are coming from different countries. That's way they need to connect any wifi devices in district. 
 
